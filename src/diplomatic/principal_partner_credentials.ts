@@ -1,0 +1,1 @@
+src/diplomatic/principal_partner_credentials.ts
