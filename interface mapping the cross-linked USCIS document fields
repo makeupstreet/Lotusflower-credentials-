@@ -1,0 +1,10 @@
+// Interface mapping the cross-linked USCIS document fields
+interface ImmigrationProfile {
+  passportNumber: string;         // Matches Passport Bio Page
+  i94AdmissionNumber: string;     // Must be exactly 11 numeric digits
+  receiptNumber: string;          // Must match 13-character USCIS format
+  visaCategory: 'H-1B' | 'O-1A';  // Strict validation categories
+  petitionerName: string;         // E.g., "BeautyTechai LLC"
+  validityStart: Date;
+  validityEnd: Date;              // Max 3 years per cycle for H-1B/O-1A
+}
