@@ -1,0 +1,23 @@
+────────────────────────┐
+│             PASSPORT BIOGRAPHIC PAGE                   │
+│ • Passport Number: [Must match exactly]                 │
+└───────────────┬────────────────────────────────────────┘
+                │
+                ▼
+┌────────────────────────────────────────────────────────┐
+│             CBP FORM I-94 ARRIVAL RECORD               │
+│ • I-94 Admission Number: [11-digit string]             │
+│ • Passport Number: [Must match exactly]                 │
+└───────────────┬────────────────────────────────────────┘
+                │
+                ▼
+┌────────────────────────────────────────────────────────┐
+│             USCIS FORM I-797A APPROVAL                 │
+│ • Receipt Number: [e.g., SRC-26-123-45678]             │
+│ • Petitioner/Employer: Makeup-Street                   │
+│ • Class / Category: [H-1B or O-1A]                     │
+│ • Validity Dates: [06/29/2026 to 06/28/2029]           │
+├────────────────────────────────────────────────────────┤
+│ ATTACHED I-94 (Bottom Right Card)                      │
+│ • I-94 Number: [Must match CBP Record exactly]         │
+└────────────────────────────────────────────────────────
