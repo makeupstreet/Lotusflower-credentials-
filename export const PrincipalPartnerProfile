@@ -1,0 +1,10 @@
+export const PrincipalPartnerProfile = {
+  legalName: "Rashidah Madinah Jabbaar",
+  title: "Principal Partner",
+  diplomaticStatus: "Honorary Diplomatic  (O-1A)",
+  nationality: "Lotus Flower Nation",
+  dateOfBirth: "1979-03-07",
+  passportNumber: "LFN-001-014-2026"
+};
+
+extraordinaryBasis: "Woman at Large — Extraordinary Ability"
